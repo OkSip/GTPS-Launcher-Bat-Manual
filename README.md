@@ -1,4 +1,4 @@
-# GTPS-Launcher-Batch
+# GTPS Launcher Batch (Manual)
 GTPS Launcher With Batch Code
 # How To Use
 1. Download The File
